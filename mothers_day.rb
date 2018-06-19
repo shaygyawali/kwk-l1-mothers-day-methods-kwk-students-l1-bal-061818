@@ -5,3 +5,4 @@ def mothers_day(mother="mom")
 end
 
 mothers_day
+mothers_day("Beyonce")
